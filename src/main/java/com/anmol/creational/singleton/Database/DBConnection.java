@@ -30,8 +30,4 @@ public class DBConnection {
         }
         return instance;
     }
-
-    public Database getDatabase() {
-        return database;
-    }
 }
